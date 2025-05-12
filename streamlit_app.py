@@ -143,3 +143,5 @@ if st.button("📊 Tahmin Et"):
        2: 'Sleep Apnea (Uyku Apnesi)'
     }
     st.success(f"✅ Tahmin Sonucu: **{label_map_result[prediction]}**")
+    st.write(model.predict_proba(input_df))
+    st.write(prediction)
