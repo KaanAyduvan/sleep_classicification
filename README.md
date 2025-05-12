@@ -77,5 +77,5 @@ streamlit run streamlit_app.py
 ---
 
 ## 🌐 Canlı Demo
-> Hazırladığımız demoyu inceleyebilirsiniz: [Uyku Bozukluğu Tahmin Uygulaması](https://sleepclassification.streamlit.app/)
+> Hazırladığımız demoyu inceleyebilirsiniz: [Uyku Bozukluğu Tahmin Uygulaması](https://sleepclassicification.streamlit.app/)
 
